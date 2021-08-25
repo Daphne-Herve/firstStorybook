@@ -1,4 +1,6 @@
 # My First Storybook + Vite.js
 
-Premiers pas avec Storybook (sans framework).
-Premiers pas simultanés avec Vite.js pour lancer un projet simple rapidement!
+####First steps with Storybook (without framework) and Vite.js.
+
+- Trying to get faster by creating a new App with Vite.js.
+- Searching for a good way to write documentation.
